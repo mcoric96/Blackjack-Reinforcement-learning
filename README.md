@@ -12,13 +12,13 @@
 This is simplified version of Blackjack game <br>
 Allowed actions:
 - hit
-- stand 
+- stand
 <br>
 Game is represented as stationary environment:
 - no multiple decks
 - every hand is dealt from full deck
 - cards are not put aside after one action
-
+<br>
 ## Algorithms
 
 - First visit Monte carlo method
