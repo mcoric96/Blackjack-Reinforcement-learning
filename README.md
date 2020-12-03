@@ -1,3 +1,5 @@
 # Blackjack-Reinforcement-learning
 
-![alt text](https://tibiablackjack.com/blackjack.png)
+<p align="center">
+  <img src="https://tibiablackjack.com/blackjack.png">
+</p>
