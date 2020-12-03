@@ -28,3 +28,7 @@ Game is represented as stationary environment:
 ## Possible improvements
 - [ ] add new algorithms
 - [ ] add non-stationary environment and enable card counting
+
+## Resource
+> Reinforcement Learning: An Introduction
+by Andrew Barto and Richard S. Sutton
