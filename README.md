@@ -14,7 +14,8 @@ Allowed actions:
 - hit
 - stand 
 <br>
-Game is represented as stationary environment: <br>
+Game is represented as stationary environment: 
+<br>
 - no multiple decks
 - every hand is dealt from full deck
 - cards are not put aside after one action
