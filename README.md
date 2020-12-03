@@ -12,7 +12,8 @@
 This is simplified version of Blackjack game <br>
 Allowed actions:
 - hit
-- stand <br>
+- stand 
+<br>
 Game is represented as stationary environment: <br>
 - no multiple decks
 - every hand is dealt from full deck
