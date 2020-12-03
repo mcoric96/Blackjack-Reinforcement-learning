@@ -4,6 +4,6 @@
   <img src="https://tibiablackjack.com/blackjack.png">
 </p>
 
-> Artificial intelligence is no match for natural stupidity <br>
+> *Artificial intelligence is no match for natural stupidity* <br>
 
 ― **Albert Einstein**
