@@ -9,7 +9,7 @@
 ― **Albert Einstein**
 
 ## Game version
-This is simplified version of Blackjack game <br>
+This is simplified version of Blackjack game, suitable for tabular RL methods without card counting and shuffle tracking methods <br>
 Allowed actions:
 - hit
 - stand
@@ -24,3 +24,7 @@ Game is represented as stationary environment:
 
 - First visit Monte carlo method
 - Q learning method
+
+## Possible improvements
+- [] add new algorithms
+- [] add non-stationary environment and enable card counting
