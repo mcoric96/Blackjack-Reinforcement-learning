@@ -8,6 +8,17 @@
 
 ― **Albert Einstein**
 
+## Game version
+This is simplified version of Blackjack game <br>
+Allowed actions:
+- hit
+- stand
+<br>
+Game is represented as stationary environment: 
+- no multiple decks
+- every hand is dealt from full deck
+- cards are not put aside after one action
+
 ## Algorithms
 
 - First visit Monte carlo method
