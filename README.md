@@ -26,5 +26,5 @@ Game is represented as stationary environment:
 - Q learning method
 
 ## Possible improvements
-- [] add new algorithms
-- [] add non-stationary environment and enable card counting
+- [ ] add new algorithms
+- [ ] add non-stationary environment and enable card counting
