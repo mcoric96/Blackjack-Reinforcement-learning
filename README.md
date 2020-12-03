@@ -7,3 +7,8 @@
 > *Artificial intelligence is no match for natural stupidity* <br>
 
 ― **Albert Einstein**
+
+## Algorithms
+
+- First visit Monte carlo method
+- Q learning method
