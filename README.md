@@ -31,4 +31,5 @@ Game is represented as stationary environment:
 
 ## Resource
 > Reinforcement Learning: An Introduction
+
 by Andrew Barto and Richard S. Sutton
