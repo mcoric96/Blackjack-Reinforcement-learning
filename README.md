@@ -1,9 +1,5 @@
 # Blackjack-Reinforcement-learning
 
-<p align="center">
-  <img src="https://www.kindpng.com/picc/m/57-570396_blackjack-karte-png-transparent-png.png">
-</p>
-
 > *Artificial intelligence is no match for natural stupidity* <br>
 
 ― **Albert Einstein**
